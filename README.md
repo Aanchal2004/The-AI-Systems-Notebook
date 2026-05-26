@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="watermarked_img_8089629761151203161.png" alt="The AI Systems Notebook Banner" width="100%" />
+<img src="17924b3b-1609-4f78-aadf-12bc6f734850.png" alt="The AI Systems Notebook Banner" width="100%" />
 
 <br/>
 
