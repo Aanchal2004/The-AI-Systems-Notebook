@@ -44,8 +44,8 @@ It is both:
 | :---: | :--- | :--- | :---: |
 | 🟢 | **How LLMs Work — Key Concepts Behind Every Prompt** | Tokens, context windows, next-token prediction, and how prompts are processed by the model. | [Read](https://medium.com/@aanchal3104/how-llms-work-key-concepts-behind-every-prompt-f6985a478917) |
 | 🟢 | **How Humans Learned to Communicate with AI: Prompt Engineering** | Zero-shot vs. few-shot learning, Chain-of-Thought reasoning, role prompting, and prompt limitations. | [Read](https://medium.com/@aanchal3104/how-humans-learned-to-communicate-with-ai-prompt-engineering-broken-down-ce7b179e00d7) |
-| 🟡 | **Why AI Sounds Confident Even When It’s Wrong** | Hallucinations, confidence illusion, and model reliability problems. | `⏳ Coming Soon` |
-| 🟡 | **Why Prompting Wasn’t Enough — The Rise of RAG** | Retrieval-Augmented Generation and how external knowledge changes AI systems. | `⏳ Coming Soon` |
+| 🟢 | **Why AI Hallucination Is a Feature of the System, Not a Bug** | Hallucinations, confidence illusion, and model reliability problems. | [Read](https://medium.com/@aanchal3104/why-ai-hallucination-is-a-feature-of-the-system-not-a-bug-i-like-this-085e8058de61)  |
+| 🟢 | *Understanding RAG: A Deep Dive into the Four-Stage Pipeline Behind Grouned AI** | Retrieval-Augmented Generation and how external knowledge changes AI systems. |[Read](https://medium.com/@aanchal3104/understanding-rag-a-deep-dive-into-the-four-stage-pipeline-behind-modern-ai-systems-7830421c3e66)   |
 | 🟡 | **Vector Databases Explained** | Embeddings, semantic search, cosine similarity, and retrieval pipelines. | `⏳ Coming Soon` |
 | 🟡 | **AI Agents Explained** | How LLMs evolved into autonomous systems capable of acting. | `⏳ Coming Soon` |
 | 🟡 | **Memory, Tools & Context in AI Systems** | Persistent memory, tool usage, APIs, and context orchestration. | `⏳ Coming Soon` |
